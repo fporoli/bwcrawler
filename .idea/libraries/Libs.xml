@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/h2-2016-05-26/h2/bin/h2-1.4.192.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webmagic-core-0.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
